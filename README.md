@@ -2,7 +2,7 @@
 
 SentimentScope AI is an advanced NLP-powered web app built with **Streamlit** and **TensorFlow** that detects **18 different emotions and sentiments** from user-provided text. It uses a deep learning model trained on over 1M labeled samples to provide nuanced emotional insights.
 
-![SentimentScope AI Screenshot](![Image](https://github.com/user-attachments/assets/6b029f68-8a51-418f-81c8-1225e958d3b2)) <!-- Optional: Add a screenshot image here -->
+![Image](https://github.com/user-attachments/assets/6b029f68-8a51-418f-81c8-1225e958d3b2) <!-- Optional: Add a screenshot image here -->
 
 ---
 
